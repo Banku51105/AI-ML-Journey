@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Ignore lecture notes
+Lecture Notes/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
