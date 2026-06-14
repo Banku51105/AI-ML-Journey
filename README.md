@@ -12,6 +12,8 @@ This repository documents my journey from Python fundamentals to AI/ML developme
 
 \- Data Structures
 
+\- Functions
+
 
 
 \## Goals
