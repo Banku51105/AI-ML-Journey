@@ -7,9 +7,6 @@
 # Ignore lecture notes
 Lecture Notes/
 
-# Practice Python file
-Python/functions/Practice.py
-
 # Python cache
 __pycache__/
 *.pyc
