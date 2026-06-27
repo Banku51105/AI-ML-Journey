@@ -1,7 +1,4 @@
 # Question 1 — Student Age
-from zoneinfo import available_timezones
-
-
 class Student:
     def __init__(self, name, age):
         self.name = name
