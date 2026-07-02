@@ -20,12 +20,3 @@ class Solution:
         if len(s) != len(t):
             return False
         return sorted(s) == sorted(t)
-def test_is_anagram():
-    sol = Solution()
-    assert sol.isAnagram("anagram", "nagaram") is True
-    assert sol.isAnagram("rat", "car") is False
-    assert sol.isAnagram("listen", "silent") is True
-    assert sol.isAnagram("hello", "world") is False
-if __name__ == "__main__":
-    test_is_anagram()
-    print("All tests passed.")

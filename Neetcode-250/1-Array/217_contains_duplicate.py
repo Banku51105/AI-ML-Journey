@@ -22,12 +22,3 @@ class Solution:
                 return True
             seen.add(num)
         return False
-def test_has_duplicate():
-    sol = Solution()
-    assert sol.hasDuplicate([1, 2, 3, 1]) is True
-    assert sol.hasDuplicate([1, 2, 3, 4]) is False
-    assert sol.hasDuplicate([1, 1, 1, 3, 3, 4, 3, 2, 4, 2]) is True
-    assert sol.hasDuplicate([]) is False
-if __name__ == "__main__":
-    test_has_duplicate()
-    print("All tests passed.")

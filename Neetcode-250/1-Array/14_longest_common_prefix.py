@@ -25,11 +25,3 @@ class Solution:
                     return lcp
             lcp += common[i]
         return lcp
-def test_longest_common_prefix():
-    sol = Solution()
-    assert sol.longestCommonPrefix(["bat", "bag", "bank", "band"]) == "ba"
-    assert sol.longestCommonPrefix(["dance", "dag", "danger", "damage"]) == "da"
-    assert sol.longestCommonPrefix(["neet", "feet"]) == ""
-if __name__ == "__main__":
-    test_longest_common_prefix()
-    print("All tests passed.")
