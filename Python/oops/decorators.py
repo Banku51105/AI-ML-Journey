@@ -95,3 +95,6 @@ def decorator(func):
         # After
         return result
     return wrapper
+
+for i in range(3):
+    print("Hi")
