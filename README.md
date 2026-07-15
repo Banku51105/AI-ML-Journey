@@ -1,50 +1,80 @@
-# AI ML Journey
+# 🚀 AI ML Journey
 
-This repository documents my journey from Python fundamentals to AI/ML Engineering.
+This repository documents my journey from Python fundamentals to AI/ML Engineering. It contains my notes, practice programs, and projects as I progress toward becoming an AI/ML Engineer.
 
-## Current Progress
+---
+
+## 📚 Current Progress
 
 ### Python Fundamentals
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ Type Casting
+- ✅ Conditionals
+- ✅ Loops
+- ✅ Strings
+- ✅ Lists
+- ✅ Tuples
+- ✅ Sets
+- ✅ Dictionaries
+- ✅ Functions
+- ✅ Object-Oriented Programming (OOP)
 
-* Variables & Data Types
-* Operators
-* Type Casting
-* Conditionals
-* Loops
-* Strings
-* Lists
-* Tuples
-* Sets
-* Dictionaries
-* Functions
+---
 
-### Projects Completed
+## 💻 Projects Completed
 
-#### 1. CLI Number Analyzer
+### 1. CLI Number Analyzer
+**Features**
+- Positive / Negative / Zero detection
+- Even / Odd detection
+- Prime number checking
+- Factorial calculation
+- Multiplication table generation
 
-Features:
+### 2. Student Management System
+**Features**
+- Add Student
+- Delete Student
+- Update Student
+- Search Student
+- Display All Students
 
-* Positive / Negative / Zero detection
-* Even / Odd detection
-* Prime number checking
-* Factorial calculation
-* Multiplication table generation
+### 3. Bank Management System (OOP)
+**Features**
+- Customer and Bank Account management
+- Savings & Current Accounts
+- Deposit, Withdraw & Transfer
+- Transaction History
+- Account Number Validation
+- Overdraft Support
+- Interest Calculation
+- Transaction Logging using Decorators
 
-#### 2. Student Management System
+---
 
-Features:
+## 🎯 Learning Goals
 
-* Add Student
-* Delete Student
-* Update Student
-* Search Student
-* Display All Students
+- Build a strong Python foundation
+- Master Data Structures & Algorithms
+- Learn SQL
+- Learn Machine Learning
+- Learn Deep Learning
+- Learn AI Engineering
+- Build Generative AI applications
+- Become industry-ready for AI/ML roles
 
-## Goals
+---
 
-* Build a strong Python foundation
-* Master DSA and problem solving
-* Learn Machine Learning
-* Learn AI Engineering
-* Build Generative AI applications
-* Become industry-ready for AI/ML roles
+## 📈 Current Roadmap
+
+- ✅ Python Fundamentals
+- ✅ Python OOP
+- ⏳ File Handling
+- ⏳ Exception Handling
+- ⏳ Advanced Python
+- ⏳ SQL
+- ⏳ Data Analysis
+- ⏳ Machine Learning
+- ⏳ Deep Learning
+- ⏳ Generative AI
