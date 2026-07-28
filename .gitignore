@@ -17,3 +17,7 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# JPG files
+Python/files_handling/photo.jpg
+Python/files_handling/photo_backup.jpg
