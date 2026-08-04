@@ -3,7 +3,7 @@ class Bank:
         self.accounts = []
     def add_account(self, account):
         for acc in self.accounts:
-            if account.account_number == acc.account_number: #i had to look for how to access account number inside self.accounts
+            if account.account_number == acc.account_number:
                 print("Account already exists")
                 return
         self.accounts.append(account)
